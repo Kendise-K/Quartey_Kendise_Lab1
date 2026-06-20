@@ -1,1 +1,1 @@
-# Quartey_Kendise_Lab1
+Kendise Quartey Lab 1 (A and B)
